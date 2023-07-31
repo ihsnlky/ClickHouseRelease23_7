@@ -17,7 +17,8 @@ cd ClickHouseRelease23_7
  docker-compose up -d
  ```
 * After installation, you should see the following nodes on your Docker Desktop screen:
-<img width="1050" alt="Screenshot 2023-05-03 at 19 58 48" src="https://user-images.githubusercontent.com/110613255/235987231-255b0e76-ad8d-4b3c-b74b-6315af8f540e.png">
+![Screenshot 2023-07-31 at 21 24 27](https://github.com/ihsnlky/ClickHouseRelease23_7/assets/110613255/543ceb05-e532-409f-ad8e-2aa5e8b862e9)
+
 
 
 * **clickhouse01**, **clickhouse02** and **clickhouse03** are on 23.7 version, and **clickhouse04** is on 23.6 which is an older version.
